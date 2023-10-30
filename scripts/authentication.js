@@ -9,11 +9,13 @@ const game_data_authentication = {
     'tunico petry 65': 'fixed',
     'Roronoazoroo': new Date('2023/10/06'),
     'Anti-Hugo': new Date('2023/11/30'),
+    'Stiborski': new Date('2023/11/02'),
   },
 
   ScavengeMass: {
     'K I N G S': 'fixed',
     'Anti-Hugo': new Date('2023/11/30'),
+    'Stiborski': new Date('2023/11/30'),
   },
 
   AutoCoins: {
