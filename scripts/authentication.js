@@ -12,7 +12,7 @@ const game_data_authentication = {
     'Stiborski': new Date('2023/11/30'),
   },
 
-  ScavengeMass: {
+  AutoScav: {
     'K I N G S': 'fixed',
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/30'),
