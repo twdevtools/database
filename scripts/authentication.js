@@ -26,5 +26,6 @@ const game_data_authentication = {
     'Roronoazoroo': new Date('2023/10/06'),
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/04'),
+    'MisterOfKiller': new Date('2023/12/03'),
   },
 };
