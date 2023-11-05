@@ -10,12 +10,14 @@ const game_data_authentication = {
     'Roronoazoroo': new Date('2023/10/06'),
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/30'),
+    'Soaresfuz': new Date('2023/11/08'),
   },
 
   AutoScav: {
     'K I N G S': 'fixed',
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/30'),
+    'Soaresfuz': new Date('2023/11/08'),
   },
 
   AutoCoins: {
