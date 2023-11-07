@@ -37,5 +37,6 @@ const game_data_authentication = {
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/04'),
     'MisterOfKiller': new Date('2023/12/03'),
+    'PoliciaFederal': new Date('2023/11/10'),
   },
 };
