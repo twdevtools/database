@@ -27,6 +27,7 @@ const game_data_authentication = {
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/30'),
     'Soaresfuz': new Date('2023/11/08'),
+    'chuck.mauricio': new Date('2023/12/20'),
   },
 
   AutoCoins: {
@@ -39,5 +40,6 @@ const game_data_authentication = {
     'Stiborski': new Date('2023/11/04'),
     'MisterOfKiller': new Date('2023/12/03'),
     'PoliciaFederal': new Date('2023/11/10'),
+    'chuck.mauricio': new Date('2023/12/20'),
   },
 };
