@@ -29,6 +29,7 @@ const game_data_authentication = {
     'Stiborski': new Date('2023/11/30'),
     'Soaresfuz': new Date('2023/11/08'),
     'chuck.mauricio': new Date('2023/12/20'),
+    'MisterOfKiller': new Date('2023/12/21'),
   },
 
   AutoCoins: {
