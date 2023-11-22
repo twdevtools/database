@@ -21,6 +21,7 @@ const game_data_authentication = {
     'Soaresfuz': new Date('2023/11/08'),
     'felipe5517': new Date('2023/12/15'),
     'MisterOfKiller': new Date('2023/12/21'),
+    'pizac': new Date('2023/11/25'),
   },
 
   AutoScav: {
@@ -30,6 +31,7 @@ const game_data_authentication = {
     'Soaresfuz': new Date('2023/11/08'),
     'chuck.mauricio': new Date('2023/12/20'),
     'MisterOfKiller': new Date('2023/12/21'),
+    'pizac': new Date('2023/11/25'),
   },
 
   AutoCoins: {
@@ -43,5 +45,6 @@ const game_data_authentication = {
     'MisterOfKiller': new Date('2023/12/03'),
     'PoliciaFederal': new Date('2023/11/10'),
     'chuck.mauricio': new Date('2023/12/20'),
+    'pizac': new Date('2023/11/25'),
   },
 };
