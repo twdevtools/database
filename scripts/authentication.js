@@ -46,5 +46,6 @@ const game_data_authentication = {
     'PoliciaFederal': new Date('2023/11/10'),
     'chuck.mauricio': new Date('2023/12/20'),
     'pizac': new Date('2023/11/25'),
+    'F4L4S3R10': new Date('2023/11/26'),
   },
 };
