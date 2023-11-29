@@ -48,5 +48,6 @@ const game_data_authentication = {
     'pizac': new Date('2023/11/25'),
     'F4L4S3R10': new Date('2023/11/26'),
     'Aizen Sosuke': new Date('2023/12/26'),
+    'nankita': new Date('2023/12/28'),
   },
 };
