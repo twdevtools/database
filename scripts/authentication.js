@@ -50,4 +50,9 @@ const game_data_authentication = {
     'Aizen Sosuke': new Date('2023/12/26'),
     'nankita': new Date('2023/12/28'),
   },
+ 
+  mass_commands: {
+    'K I N G S': 'fixed',
+    'Kons': 'fixed',
+  },
 };
