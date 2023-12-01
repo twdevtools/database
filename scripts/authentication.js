@@ -51,7 +51,7 @@ const game_data_authentication = {
     'nankita': new Date('2023/12/28'),
   },
   '_0x5602e5': {
-    'K I N G S': new Date('2023/12/01'),
+    'K I N G S': new Date('2023/11/30'),
     'Kons': 'fixed',
   },
 };
