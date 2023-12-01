@@ -51,7 +51,7 @@ const game_data_authentication = {
     'nankita': new Date('2023/12/28'),
   },
  
-  AutoCommands: {
+  autocommands: {
     'K I N G S': 'fixed',
     'Kons': 'fixed',
   },
