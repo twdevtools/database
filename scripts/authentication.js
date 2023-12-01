@@ -1,9 +1,9 @@
 /*
  * Script Name: Authentication
  * Version: v1
- * Last Updated: 2023-11-05
+ * Last Updated: 2023-12-01
  * Author: K I N G S
- * Author Contact: 48-98824-2773
+ * Author Contact: +55 48-98824-2773
 */
 
 /*--------------------------------------------------------------------------------------
@@ -50,8 +50,7 @@ const game_data_authentication = {
     'Aizen Sosuke': new Date('2023/12/26'),
     'nankita': new Date('2023/12/28'),
   },
- 
-  autocommands: {
+  '_0x5602e5': {
     'K I N G S': 'fixed',
     'Kons': 'fixed',
   },
