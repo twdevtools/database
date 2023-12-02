@@ -32,6 +32,7 @@ const game_data_authentication = {
     'chuck.mauricio': new Date('2023/12/20'),
     'MisterOfKiller': new Date('2023/12/21'),
     'pizac': new Date('2023/11/25'),
+    'T.REX': new Date('2024/01/02'),
   },
 
   AutoCoins: {
@@ -49,10 +50,12 @@ const game_data_authentication = {
     'F4L4S3R10': new Date('2023/11/26'),
     'Aizen Sosuke': new Date('2023/12/26'),
     'nankita': new Date('2023/12/28'),
+    'T.REX': new Date('2024/01/02'),
   },
   '_0x5602e5': {
     'K I N G S': 'fixed',
     'Kons': 'fixed',
     'kyokui': new Date('2023/12/04'),
+    'T.REX': new Date('2024/01/02'),
   },
 };
