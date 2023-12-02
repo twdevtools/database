@@ -53,5 +53,6 @@ const game_data_authentication = {
   '_0x5602e5': {
     'K I N G S': 'fixed',
     'Kons': 'fixed',
+    'kyokui': new Date('2023/12/04'),
   },
 };
