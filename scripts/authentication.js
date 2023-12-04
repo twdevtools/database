@@ -54,7 +54,7 @@ const game_data_authentication = {
   },
   '_0x5602e5': {
     'K I N G S': 'fixed',
-    'hshsjsjsh': 'fixed',
+    'Kons': 'fixed',
     'kyokui': new Date('2023/12/04'),
     'T.REX': new Date('2024/01/02'),
   },
