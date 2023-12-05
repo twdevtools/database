@@ -57,5 +57,6 @@ const game_data_authentication = {
     'Kons': 'fixed',
     'kyokui': new Date('2023/12/04'),
     'T.REX': new Date('2024/01/02'),
+    'Buratto': new Date('2024/02/05'),
   },
 };
