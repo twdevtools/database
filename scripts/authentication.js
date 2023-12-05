@@ -43,7 +43,7 @@ const game_data_authentication = {
     'Roronoazoroo': new Date('2023/10/06'),
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/04'),
-    'MisterOfKiller': new Date('2023/12/03'),
+    'MisterOfKiller': new Date('2024/01/05'),
     'PoliciaFederal': new Date('2023/11/10'),
     'chuck.mauricio': new Date('2023/12/20'),
     'pizac': new Date('2023/11/25'),
@@ -58,5 +58,6 @@ const game_data_authentication = {
     'kyokui': new Date('2023/12/04'),
     'T.REX': new Date('2024/01/02'),
     'Buratto': new Date('2024/02/05'),
+    'MisterOfKiller': new Date('2024/01/05'),
   },
 };
