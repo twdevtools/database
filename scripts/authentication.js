@@ -23,6 +23,7 @@ const game_data_authentication = {
     'MisterOfKiller': new Date('2023/12/21'),
     'pizac': new Date('2023/11/25'),
     'Chuck2': new Date('2023/12/09'),
+    'Paulo Carboni': new Date('2024/01/06'),
   },
 
   AutoScav: {
@@ -35,6 +36,7 @@ const game_data_authentication = {
     'pizac': new Date('2023/11/25'),
     'T.REX': new Date('2024/01/02'),
     'Chuck2': new Date('2023/12/09'),
+    'Paulo Carboni': new Date('2024/01/06'),
   },
 
   AutoCoins: {
@@ -53,6 +55,7 @@ const game_data_authentication = {
     'Aizen Sosuke': new Date('2023/12/26'),
     'nankita': new Date('2023/12/28'),
     'T.REX': new Date('2024/01/02'),
+    'Paulo Carboni': new Date('2024/01/06'),
   },
   '_0x5602e5': {
     'K I N G S': 'fixed',
@@ -61,5 +64,6 @@ const game_data_authentication = {
     'T.REX': new Date('2024/01/02'),
     'Buratto': new Date('2024/02/05'),
     'MisterOfKiller': new Date('2024/01/05'),
+    'Paulo Carboni': new Date('2024/01/06'),
   },
 };
