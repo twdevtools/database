@@ -24,6 +24,7 @@ const game_data_authentication = {
     'pizac': new Date('2023/11/25'),
     'Chuck2': new Date('2023/12/09'),
     'Paulo Carboni': new Date('2024/01/06'),
+    'Phoenix': new Date('2023/12/09'),
   },
 
   AutoScav: {
