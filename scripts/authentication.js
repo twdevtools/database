@@ -22,6 +22,7 @@ const game_data_authentication = {
     'felipe5517': new Date('2023/12/15'),
     'MisterOfKiller': new Date('2023/12/21'),
     'pizac': new Date('2023/11/25'),
+    'Chuck2': new Date('2023/12/09'),
   },
 
   AutoScav: {
@@ -33,6 +34,7 @@ const game_data_authentication = {
     'MisterOfKiller': new Date('2023/12/21'),
     'pizac': new Date('2023/11/25'),
     'T.REX': new Date('2024/01/02'),
+    'Chuck2': new Date('2023/12/09'),
   },
 
   AutoCoins: {
