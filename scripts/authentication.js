@@ -24,7 +24,15 @@ const game_data_authentication = {
     'pizac': new Date('2023/11/25'),
     'Chuck2': new Date('2023/12/09'),
     'Paulo Carboni': new Date('2024/01/06'),
-    'Phoenix': new Date('2023/12/09'),
+    'Phoenix': new Date('2024/01/08'),
+    'Meclives': new Date('2024/01/08'),
+    'Igorlc': new Date('2024/01/08'),
+    'Um Beck e Uma Tequila': new Date('2024/01/08'),
+    'Yarria Puig': new Date('2024/01/08'),
+    'Titotey': new Date('2024/01/08'),
+    'Unforgiven': new Date('2024/01/08'),
+    'xico rei': new Date('2024/01/08'),
+   
   },
 
   AutoScav: {
