@@ -32,7 +32,6 @@ const game_data_authentication = {
     'Titotey': new Date('2024/01/08'),
     'Unforgiven': new Date('2024/01/08'),
     'xico rei': new Date('2024/01/08'),
-   
   },
 
   AutoScav: {
