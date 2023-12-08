@@ -25,7 +25,7 @@ const game_data_authentication = {
     'Chuck2': new Date('2023/12/09'),
     'Paulo Carboni': new Date('2024/01/06'),
     'Phoenix': new Date('2024/01/08'),
-    'Meclives': new Date('2024/01/08'),
+    'MecLives': new Date('2024/01/08'),
     'Igorlc': new Date('2024/01/08'),
     'Um Beck e Uma Tequila': new Date('2024/01/08'),
     'Yarria Puig': new Date('2024/01/08'),
