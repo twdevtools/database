@@ -76,7 +76,7 @@ const game_data_authentication = {
     'T.REX': new Date('2024/01/02'),
     'Buratto': new Date('2024/02/05'),
     'MisterOfKiller': new Date('2024/01/05'),
-    'Paulo Carboni': new Date('2024/01/06'),4
+    'Paulo Carboni': new Date('2024/01/06'),
     'kyokuy': new Date('2024/01/09'),
   },
 };
