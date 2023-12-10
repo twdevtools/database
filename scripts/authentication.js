@@ -15,7 +15,7 @@ const game_data_authentication = {
     'K I N G S': 'fixed',
     'renatinho1999': 'fixed',
     'tunico petry 65': 'fixed',
-    'kyokuy': new Date('2024/01/09'),
+    'kyokui': new Date('2024/01/09'),
     'Roronoazoroo': new Date('2023/10/06'),
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/30'),
@@ -38,7 +38,7 @@ const game_data_authentication = {
 
   AutoScav: {
     'K I N G S': 'fixed',
-    'kyokuy': new Date('2024/01/09'),
+    'kyokui': new Date('2024/01/09'),
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/30'),
     'Soaresfuz': new Date('2023/11/08'),
@@ -53,7 +53,7 @@ const game_data_authentication = {
   AutoCoins: {
     'K I N G S': 'fixed',
     'tunico petry 65': 'fixed',
-    'kyokuy': new Date('2024/01/09'),
+    'kyokui': new Date('2024/01/09'),
     'felipe5517': new Date('2023/12/24'),
     'M O S K A': new Date('2023/12/23'),
     'Roronoazoroo': new Date('2023/10/06'),
@@ -77,6 +77,6 @@ const game_data_authentication = {
     'Buratto': new Date('2024/02/05'),
     'MisterOfKiller': new Date('2024/01/05'),
     'Paulo Carboni': new Date('2024/01/06'),
-    'kyokuy': new Date('2024/01/09'),
+    'kyokui': new Date('2024/01/09'),
   },
 };
