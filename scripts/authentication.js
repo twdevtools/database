@@ -69,6 +69,7 @@ const game_data_authentication = {
     'Paulo Carboni': new Date('2024/01/06'),
     'kyokuy': new Date('2024/01/09'),
   },
+ 
   '_0x5602e5': {
     'K I N G S': 'fixed',
     'Kons': 'fixed',
