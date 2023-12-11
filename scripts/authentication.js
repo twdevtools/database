@@ -83,5 +83,6 @@ const game_data_authentication = {
     'kyokui': new Date('2024/01/09'),
     'danilokavas': new Date('2023/12/14'),
     'M O S K A': new Date('2024/01/11'),
+    'tunico petry 65': new Date('2024/01/11'),
   },
 };
