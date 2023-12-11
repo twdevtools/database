@@ -32,6 +32,7 @@ const game_data_authentication = {
     'Titotey': new Date('2024/01/08'),
     'Unforgiven': new Date('2024/01/08'),
     'gustavomartins018': new Date('2024/01/08'),
+    'danilokavas': new Date('2023/12/14'),
   },
 
   AutoScav: {
@@ -46,6 +47,7 @@ const game_data_authentication = {
     'T.REX': new Date('2024/01/02'),
     'Chuck2': new Date('2023/12/09'),
     'Paulo Carboni': new Date('2024/01/06'),
+    'danilokavas': new Date('2023/12/14'),
   },
 
   AutoCoins: {
@@ -66,6 +68,7 @@ const game_data_authentication = {
     'nankita': new Date('2023/12/28'),
     'T.REX': new Date('2024/01/02'),
     'Paulo Carboni': new Date('2024/01/06'),
+    'danilokavas': new Date('2023/12/14'),
   },
  
   '_0x5602e5': {
@@ -76,5 +79,6 @@ const game_data_authentication = {
     'MisterOfKiller': new Date('2024/01/05'),
     'Paulo Carboni': new Date('2024/01/06'),
     'kyokui': new Date('2024/01/09'),
+    'danilokavas': new Date('2023/12/14'),
   },
 };
