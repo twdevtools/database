@@ -33,6 +33,7 @@ const game_data_authentication = {
     'Unforgiven': new Date('2024/01/08'),
     'gustavomartins018': new Date('2024/01/08'),
     'danilokavas': new Date('2023/12/14'),
+    'M O S K A': new Date('2024/01/11'),
   },
 
   AutoScav: {
@@ -48,6 +49,7 @@ const game_data_authentication = {
     'Chuck2': new Date('2023/12/09'),
     'Paulo Carboni': new Date('2024/01/06'),
     'danilokavas': new Date('2023/12/14'),
+    'M O S K A': new Date('2024/01/11'),
   },
 
   AutoCoins: {
@@ -55,7 +57,7 @@ const game_data_authentication = {
     'tunico petry 65': 'fixed',
     'kyokui': new Date('2024/01/09'),
     'felipe5517': new Date('2023/12/24'),
-    'M O S K A': new Date('2023/12/23'),
+    'M O S K A': new Date('2024/01/23'),
     'Roronoazoroo': new Date('2023/10/06'),
     'Anti-Hugo': new Date('2023/11/30'),
     'Stiborski': new Date('2023/11/04'),
@@ -80,5 +82,6 @@ const game_data_authentication = {
     'Paulo Carboni': new Date('2024/01/06'),
     'kyokui': new Date('2024/01/09'),
     'danilokavas': new Date('2023/12/14'),
+    'M O S K A': new Date('2024/01/11'),
   },
 };
