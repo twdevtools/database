@@ -90,7 +90,7 @@ const game_data_authentication = {
     'orilaudo': new Date('2024/01/14'),
     'felipe5517': new Date('2024/01/12'),
     'Birináite': new Date('2024/12/12'),
-    'nankita': new Date('2023/12/15'),
+    'nankita': new Date('2024/01/16'),
     'Xdezenove': new Date('2024/01/13'),
   },
 };
