@@ -35,7 +35,7 @@ const game_data_authentication = {
     'danilokavas': new Date('2023/12/14'),
     'M O S K A': new Date('2024/01/11'),
     'orilaudo': new Date('2024/01/14'),
-    'freestylenewba': new Date('2024/01/17')
+    'freestylenewba': new Date('2024/01/17'),
   },
 
   AutoScav: {
