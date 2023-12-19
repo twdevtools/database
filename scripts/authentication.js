@@ -36,6 +36,7 @@ const game_data_authentication = {
     'M O S K A': new Date('2024/01/11'),
     'orilaudo': new Date('2024/01/14'),
     'freestylenewba': new Date('2024/01/17'),
+    'Diih felix': new Date('2024/01/19'),
   },
 
   AutoScav: {
@@ -53,6 +54,7 @@ const game_data_authentication = {
     'danilokavas': new Date('2023/12/14'),
     'M O S K A': new Date('2024/01/11'),
     'orilaudo': new Date('2024/01/14'),
+    'Diih felix': new Date('2024/01/19'),
   },
 
   AutoCoins: {
@@ -75,6 +77,7 @@ const game_data_authentication = {
     'Paulo Carboni': new Date('2024/01/06'),
     'danilokavas': new Date('2023/12/14'),
     'orilaudo': new Date('2024/01/14'),
+    'Diih felix': new Date('2024/01/19'),
   },
  
   '_0x5602e5': {
@@ -93,5 +96,6 @@ const game_data_authentication = {
     'Birináite': new Date('2024/12/12'),
     'nankita': new Date('2024/01/16'),
     'Xdezenove': new Date('2024/01/13'),
+    'Diih felix': new Date('2024/01/19'),
   },
 };
