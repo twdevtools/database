@@ -100,5 +100,6 @@ const game_data_authentication = {
     'pizac': new Date('2024/01/08'),
     'SouKiller': new Date('2024/01/08'),
     'Kraahyus': new Date('2024/01/08'),
+    'Dtozo': new Date('2024/01/08'),
   },
 };
