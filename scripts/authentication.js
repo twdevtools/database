@@ -99,5 +99,6 @@ const game_data_authentication = {
     'Diih felix': new Date('2024/01/19'),
     'pizac': new Date('2024/01/08'),
     'SouKiller': new Date('2024/01/08'),
+    'Kraahyus': new Date('2024/01/08'),
   },
 };
