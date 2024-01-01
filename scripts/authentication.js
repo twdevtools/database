@@ -97,5 +97,6 @@ const game_data_authentication = {
     'nankita': new Date('2024/01/16'),
     'Xdezenove': new Date('2024/01/13'),
     'Diih felix': new Date('2024/01/19'),
+    'pizac': new Date('2024/01/08'),
   },
 };
