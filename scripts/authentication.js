@@ -109,5 +109,6 @@ const game_data_authentication = {
     'junintv': new Date('2024/01/09'),
     'Chuck.mauricio': new Date('2024/01/09'),
     'Cadman zangs': new Date('2024/01/09'),
+    'kerve': new Date('2024/01/09'),
   },
 };
