@@ -107,5 +107,6 @@ const game_data_authentication = {
     '-The Spirit-': new Date('2024/02/02'),
     'Conan348': new Date('2024/01/09'),
     'junintv': new Date('2024/01/09'),
+    'Chuck.mauricio': new Date('2024/01/09'),
   },
 };
