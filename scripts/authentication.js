@@ -88,7 +88,7 @@ const game_data_authentication = {
     'MisterOfKiller': new Date('2024/01/05'),
     'Paulo Carboni': new Date('2024/01/06'),
     'kyokui': new Date('2024/01/09'),
-    'danilokavas': new Date('2023/12/14'),
+    'danilokavas': new Date('2024/01/09'),
     'M O S K A': new Date('2024/01/11'),
     'tunico petry 65': new Date('2024/01/11'),
     'orilaudo': new Date('2024/01/14'),
