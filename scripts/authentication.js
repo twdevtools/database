@@ -105,5 +105,6 @@ const game_data_authentication = {
     'The Borgs': new Date('2024/01/09'),
     'diguin silva': new Date('2024/01/09'),
     '-The Spirit-': new Date('2024/02/02'),
+    'Conan348': new Date('2024/01/09'),
   },
 };
