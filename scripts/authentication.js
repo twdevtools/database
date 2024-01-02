@@ -108,5 +108,6 @@ const game_data_authentication = {
     'Conan348': new Date('2024/01/09'),
     'junintv': new Date('2024/01/09'),
     'Chuck.mauricio': new Date('2024/01/09'),
+    'Cadman zangs': new Date('2024/01/09'),
   },
 };
