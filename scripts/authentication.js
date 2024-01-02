@@ -104,5 +104,6 @@ const game_data_authentication = {
     'Guilherme xv': new Date('2024/01/09'),
     'The Borgs': new Date('2024/01/09'),
     'diguin silva': new Date('2024/01/09'),
+    '-The Spirit-': new Date('2024/02/02'),
   },
 };
