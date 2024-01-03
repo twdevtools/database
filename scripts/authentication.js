@@ -1,11 +1,3 @@
-/*
- * Script Name: Authentication
- * Version: v1
- * Last Updated: 2023-12-01
- * Author: K I N G S
- * Author Contact: +55 48-98824-2773
-*/
-
 /*--------------------------------------------------------------------------------------
  * This script can NOT be cloned and modified without permission from the script author.
  --------------------------------------------------------------------------------------*/
