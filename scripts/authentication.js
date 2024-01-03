@@ -76,7 +76,7 @@ const game_data_authentication = {
     'K I N G S': 'fixed',
     'Kons': 'fixed',
     'T.REX': new Date('2024/01/02'),
-    'Buratto': new Date('2024/02/05'),
+    'Buratto': new Date('2024/07/05'),
     'MisterOfKiller': new Date('2024/01/05'),
     'Paulo Carboni': new Date('2024/01/06'),
     'kyokui': new Date('2024/01/09'),
