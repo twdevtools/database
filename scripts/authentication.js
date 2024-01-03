@@ -110,5 +110,6 @@ const game_data_authentication = {
     'Chuck.mauricio': new Date('2024/01/09'),
     'cadman zangs': new Date('2024/01/09'),
     'kerve': new Date('2024/01/09'),
+    'Havooc': new Date('2024/01/10'),
   },
 };
