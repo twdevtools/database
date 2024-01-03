@@ -29,6 +29,7 @@ const game_data_authentication = {
     'freestylenewba': new Date('2024/01/17'),
     'Diih felix': new Date('2024/01/19'),
     'Soaresfuz': new Date('2024/01/23'),
+    '-=FK=-HooTS': new Date('2024/02/03'),
   },
 
   AutoScav: {
@@ -47,6 +48,7 @@ const game_data_authentication = {
     'M O S K A': new Date('2024/01/11'),
     'orilaudo': new Date('2024/01/14'),
     'Diih felix': new Date('2024/01/19'),
+    '-=FK=-HooTS': new Date('2024/02/03'),
   },
 
   AutoCoins: {
@@ -70,6 +72,7 @@ const game_data_authentication = {
     'danilokavas': new Date('2023/12/14'),
     'orilaudo': new Date('2024/01/14'),
     'Diih felix': new Date('2024/01/19'),
+    '-=FK=-HooTS': new Date('2024/02/03'),
   },
  
   '_0x5602e5': {
@@ -103,5 +106,6 @@ const game_data_authentication = {
     'cadman zangs': new Date('2024/01/09'),
     'KerVe': new Date('2024/01/09'),
     'Havooc': new Date('2024/01/10'),
+    '-=FK=-HooTS': new Date('2024/02/03'),
   },
 };
