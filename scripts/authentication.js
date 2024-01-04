@@ -73,6 +73,7 @@ const game_data_authentication = {
     'orilaudo': new Date('2024/01/14'),
     'Diih felix': new Date('2024/01/19'),
     '-=FK=-HooTS': new Date('2024/02/03'),
+    'maiteco': new Date('2024/02/04'),
   },
  
   '_0x5602e5': {
