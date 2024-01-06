@@ -108,5 +108,6 @@ const game_data_authentication = {
     'KerVe': new Date('2024/01/09'),
     'Havooc': new Date('2024/01/10'),
     '-=FK=-HooTS': new Date('2024/01/06'),
+    'Roronoazoroo': new Date('2024/01/09'),
   },
 };
