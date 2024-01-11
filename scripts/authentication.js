@@ -110,5 +110,6 @@ const game_data_authentication = {
     '-=FK=-HooTS': new Date('2024/01/09'),
     'Roronoazoroo': new Date('2024/01/09'),
     'Khronnos': new Date('2024/01/10'),
+    'TheChosenJL': new Date('2024/01/13'),
   },
 };
