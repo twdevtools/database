@@ -66,7 +66,7 @@ const game_data_authentication = {
     'pizac': new Date('2023/11/25'),
     'F4L4S3R10': new Date('2023/11/26'),
     'Aizen Sosuke': new Date('2023/12/26'),
-    'nankita': new Date('2024/02/11'),
+    'nankita': new Date('2024/02/12'),
     'T.REX': new Date('2024/01/02'),
     'Paulo Carboni': new Date('2024/02/06'),
     'danilokavas': new Date('2023/12/14'),
