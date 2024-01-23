@@ -109,7 +109,7 @@ const game_data_authentication = {
     'Havooc': new Date('2024/01/10'),
     '-=FK=-HooTS': new Date('2024/01/09'),
     'Roronoazoroo': new Date('2024/01/09'),
-    'Khronnos': new Date('2024/01/10'),
+    'Khronnos': new Date('2024/02/22'),
     'TheChosenJL': new Date('2024/01/13'),
     'riipzord': new Date('2024/02/18'),
   },
