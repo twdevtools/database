@@ -92,7 +92,7 @@ const game_data_authentication = {
     'Birináite': new Date('2024/12/12'),
     'nankita': new Date('2024/02/16'),
     'Xdezenove': new Date('2024/01/13'),
-    'Diih felix': new Date('2024/01/19'),
+    'Diih felix': new Date('2024/02/23'),
     'pizac': new Date('2024/01/08'),
     'SouKiller': new Date('2024/01/08'),
     'Kraahyus': new Date('2024/01/08'),
