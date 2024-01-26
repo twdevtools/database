@@ -112,5 +112,6 @@ const game_data_authentication = {
     'Khronnos': new Date('2024/02/22'),
     'TheChosenJL': new Date('2024/01/13'),
     'riipzord': new Date('2024/02/18'),
+    'renatinho1999': new Date('2024/02/26'),
   },
 };
