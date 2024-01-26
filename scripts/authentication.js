@@ -97,7 +97,7 @@ const game_data_authentication = {
     'SouKiller': new Date('2024/01/08'),
     'Kraahyus': new Date('2024/01/08'),
     'Dtozo': new Date('2024/01/08'),
-    'Guilherme xv': new Date('2024/01/09'),
+    'Guilherme xv': new Date('2024/02/26'),
     'The Borgs': 'fixed',
     'diguin silva': new Date('2024/01/09'),
     '-The Spirit-': new Date('2024/02/02'),
