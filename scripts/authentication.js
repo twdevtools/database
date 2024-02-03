@@ -100,7 +100,7 @@ const game_data_authentication = {
     'Guilherme xv': new Date('2024-02-26'),
     'The Borgs': 'fixed',
     'diguin silva': new Date('2024-01-09'),
-    '-The Spirit-': new Date('2024-02-02'),
+    '-The Spirit-': new Date('2024-03-03'),
     'Conan348': new Date('2024-01-09'),
     'Junintv': new Date('2024-01-09'),
     'chuck.mauricio': new Date('2024-01-09'),
