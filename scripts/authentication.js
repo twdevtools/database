@@ -62,7 +62,7 @@ const game_data_authentication = {
     'Stiborski': new Date('2023/11/04'),
     'MisterOfKiller': new Date('2024/01/05'),
     'PoliciaFederal': new Date('2023/11/10'),
-    'chuck.mauricio': new Date('2023/12/20'),
+    'chuck.mauricio': new Date('2024/03/16'),
     'pizac': new Date('2023/11/25'),
     'F4L4S3R10': new Date('2023/11/26'),
     'Aizen Sosuke': new Date('2023/12/26'),
