@@ -114,5 +114,6 @@ const game_data_authentication = {
     'riipzord': new Date('2024-03-19'),
     'renatinho1999': new Date('2024-02-26'),
     '-ViCiAdO by Silva.s': new Date('2024-02-24'),
+    'Kriger': new Date('2024-02-25'),
   },
 };
