@@ -22,7 +22,7 @@ const game_data_authentication = {
     'Yarria Puig': new Date('2024/01/08'),
     'Titotey': new Date('2024/01/08'),
     'Unforgiven': new Date('2024/01/08'),
-    'gustavomartins018': new Date('2024/03/03'),
+    'gustavomartins018': new Date('2024/05/04'),
     'danilokavas': new Date('2024/01/18'),
     'M O S K A': new Date('2024/01/11'),
     'orilaudo': new Date('2024/01/14'),
