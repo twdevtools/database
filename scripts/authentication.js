@@ -31,6 +31,7 @@ const game_data_authentication = {
     'Soaresfuz': new Date('2024/01/23'),
     '-=FK=-HooTS': new Date('2024/02/03'),
     'Khronnos': 'fixed',
+    'Guilherme xv': new Date('2024-04-12 14:30:00'),
   },
 
   AutoScav: {
@@ -50,6 +51,7 @@ const game_data_authentication = {
     'orilaudo': new Date('2024/01/14'),
     'Diih felix': new Date('2024/04/19'),
     '-=FK=-HooTS': new Date('2024/02/03'),
+    'Guilherme xv': new Date('2024-04-12 14:30:00'),
   },
 
   AutoCoins: {
@@ -75,6 +77,7 @@ const game_data_authentication = {
     'Diih felix': new Date('2024/04/19'),
     '-=FK=-HooTS': new Date('2024/02/03'),
     'maiteco': new Date('2024/02/04'),
+    'Guilherme xv': new Date('2024-04-12 14:30:00'),
   },
  
   '_0x5602e5': {
@@ -98,7 +101,7 @@ const game_data_authentication = {
     'SouKiller': new Date('2024-01-08'),
     'Kraahyus': new Date('2024-01-08'),
     'Dtozo': new Date('2024-01-08'),
-    'Guilherme xv': new Date('2024-02-26'),
+    'Guilherme xv': new Date('2024-04-12 14:30:00'),
     'The Borgs': 'fixed',
     'diguin silva': new Date('2024-01-09'),
     '-The Spirit-': new Date('2024-04-07'),
