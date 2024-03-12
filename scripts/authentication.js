@@ -117,5 +117,6 @@ const game_data_authentication = {
     '-ViCiAdO by Silva.s': new Date('2024-02-24'),
     'kriger': new Date('2024-04-05'),
     'Caçadora de Noob': new Date('2024-03-26'),
+    'Poppin Champagne': new Date('2024-03-15 13:45:00'),
   },
 };
