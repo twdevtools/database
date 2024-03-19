@@ -115,7 +115,7 @@ const game_data_authentication = {
     'Roronoazoroo': new Date('2024-01-09'),
     'Khronnos': 'fixed',
     'TheChosenJL': new Date('2024-01-13'),
-    'riipzord': new Date('2024-03-19'),
+    'riipzord': new Date('2024-03-22'),
     'renatinho1999': new Date('2024-02-26'),
     '-ViCiAdO by Silva.s': new Date('2024-02-24'),
     'kriger': new Date('2024-04-05'),
