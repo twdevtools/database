@@ -121,5 +121,6 @@ const game_data_authentication = {
     'kriger': new Date('2024-04-05'),
     'Caçadora de Noob': new Date('2024-03-26'),
     'Poppin Champagne': new Date('2024-04-15 20:40:00'),
+    'TheChosenJL': new Date('2024-04-11 22:35:00'),
   },
 };
