@@ -124,6 +124,6 @@ const game_data_authentication = {
     'TheChosenJL': new Date('2024-04-11 22:35:00'),
   },
   '_0x5602e4': {
-    'K I N G S': 'fixed',
+    'K I N G S': 'gdfgfd',
   }, 
 };
