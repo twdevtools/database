@@ -123,4 +123,7 @@ const game_data_authentication = {
     'Poppin Champagne': new Date('2024-04-15 20:40:00'),
     'TheChosenJL': new Date('2024-04-11 22:35:00'),
   },
+  '_0x5602e4': {
+    'K I N G S': 'fixed',
+  }, 
 };
