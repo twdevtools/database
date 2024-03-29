@@ -2,7 +2,7 @@
  * This script can NOT be cloned and modified without permission from the script author.
  --------------------------------------------------------------------------------------*/
 
-const game_data_authentication = {
+window.game_data_authentication = {
   AutoFarm: {
     'K I N G S': 'fixed',
     'renatinho1999': 'fixed',
