@@ -1,5 +1,5 @@
 {
-    "AutoFarm": {
+    "AUTOFARM": {
         "K I N G S": "fixed",
         "renatinho1999": "fixed",
         "tunico petry 65": "fixed",
