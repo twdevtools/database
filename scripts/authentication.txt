@@ -27,7 +27,8 @@
         "Soaresfuz": "2024-01-23 03:00:00",
         "-=FK=-HooTS": "2024-02-03 03:00:00",
         "Khronnos": "fixed",
-        "Guilherme xv": "2024-04-12 17:30:00"
+        "Guilherme xv": "2024-04-12 17:30:00",
+        "pst...": "fixed"
     },
     "AutoScav": {
         "K I N G S": "fixed",
