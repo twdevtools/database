@@ -115,9 +115,10 @@
         "kriger": "2024-05-16 22:35:00",
         "Caçadora de Noob": "2024-04-27 12:15:00",
         "Poppin Champagne": "2024-05-17 13:15:00",
-        "pst...": "2024-04-10 00:50:00"
+        "pst...": "fixed",
     },
     "_0x5602e4": {
-        "K I N G S": "fixed"
+        "K I N G S": "fixed",
+        "pst...": "fixed",
     }
 }
