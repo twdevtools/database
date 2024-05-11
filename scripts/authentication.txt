@@ -7,14 +7,14 @@
         "renatinho1999": "fixed",
         "tunico petry 65": "fixed",
         "Diih felix": "2024-05-19 17:00:00",
-        "Khronnos": "fixed",
+        "Khronnos": "fixed"
     },
     "AutoScav": {
-        "Diih felix": "2024-05-19 17:00:00",
+        "Diih felix": "2024-05-19 17:00:00"
     },
     "AUTOCOINS": {
         "tunico petry 65": "fixed",
-        "Diih felix": "2024-05-19 17:00:00",
+        "Diih felix": "2024-05-19 17:00:00"
     },
     "AUTOCOMMANDS": {
         "Buratto": "2024-07-05 00:00:00",
@@ -24,6 +24,6 @@
         "Khronnos": "fixed",
         "kriger": "2024-05-16 22:35:00",
         "Caçadora de Noob": "2024-05-27 12:15:00",
-        "Poppin Champagne": "2024-05-17 13:15:00",
+        "Poppin Champagne": "2024-05-17 13:15:00"
     },
 }
