@@ -1,7 +1,7 @@
 {
     "obsidian-authentication": {
         "K I N G S": "fixed",
-        "pst...": "fixed"
+        "livioprofight": "fixed"
     },
     "AUTOFARM": {
         "renatinho1999": "fixed",
