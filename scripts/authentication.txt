@@ -1,6 +1,6 @@
 {
     "obsidian-authentication": {
-        "K I N G S": "2024-07-26 15:00:00",
+        "K I N G S": "2025-05-10 22:00:00",
         "pst...": "fixed"
     },
     "AUTOFARM": {
