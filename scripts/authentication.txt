@@ -4,12 +4,10 @@
         "pst...": "fixed"
     },
     "AUTOFARM": {
-        "K I N G S": "fixed",
         "renatinho1999": "fixed",
         "tunico petry 65": "fixed",
         "Diih felix": "2024-05-19 17:00:00",
         "Khronnos": "fixed",
-        "pst...": "fixed"
     },
     "AutoScav": {
         "Diih felix": "2024-05-19 17:00:00",
