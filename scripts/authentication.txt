@@ -17,6 +17,7 @@
         "Diih felix": "2024-05-19 17:00:00"
     },
     "AUTOCOMMANDS": {
+        "K I N G S": "fixed",
         "Buratto": "2024-07-05 00:00:00",
         "Birináite": "2024-12-12 00:00:00",
         "Diih felix": "2024-05-23 17:00:00",
