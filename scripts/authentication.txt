@@ -1,6 +1,6 @@
 {
     "obsidian-authentication": {
-        "K I N G S": "ss",
+        "K I N G S": "fixed",
         "livioprofight": "fixed"
     },
     "AUTOFARM": {
