@@ -3,19 +3,6 @@
         "K I N G S": "fixed",
         "livioprofight": "fixed"
     },
-    "AUTOFARM": {
-        "renatinho1999": "fixed",
-        "tunico petry 65": "fixed",
-        "Diih felix": "2024-05-19 17:00:00",
-        "Khronnos": "fixed"
-    },
-    "AutoScav": {
-        "Diih felix": "2024-05-19 17:00:00"
-    },
-    "AUTOCOINS": {
-        "tunico petry 65": "fixed",
-        "Diih felix": "2024-05-19 17:00:00"
-    },
     "AUTOCOMMANDS": {
         "K I N G S": "fixed",
         "Buratto": "2024-07-05 00:00:00",
