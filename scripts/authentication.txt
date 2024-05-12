@@ -1,7 +1,8 @@
 {
     "obsidian-authentication": {
         "K I N G S": "fixed",
-        "livioprofight": "fixed"
+        "livioprofight": "fixed",
+        "teste": "fixed"
     },
     "AUTOCOMMANDS": {
         "K I N G S": "fixed",
