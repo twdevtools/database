@@ -1,7 +1,8 @@
 {
     "obsidian-authentication": {
         "K I N G S": "fixed",
-        "livioprofight": "fixed"
+        "livioprofight": "fixed",
+        "SaZú": "2024-06-30 23:59:59"
     },
     "AUTOCOMMANDS": {
         "K I N G S": "fixed",
