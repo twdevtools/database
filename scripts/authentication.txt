@@ -1,6 +1,6 @@
 {
     "obsidian-authentication": {
-        "K I N G S": "fixed",
+        "K I N G S": "2024-12-30 23:00:00",
         "livioprofight": "fixed",
         "SaZú": "2024-06-30 23:59:59"
     },
