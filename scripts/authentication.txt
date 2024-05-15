@@ -3,7 +3,8 @@
         "K I N G S": "2024-12-30 23:00:00",
         "livioprofight": "2024-12-30 23:00:00",
         "SaZú": "2024-12-30 23:00:00",
-        "riipzord": "2024-08-14 08:00:00"
+        "riipzord": "2024-08-14 08:00:00",
+        "Figurante Sem Vida": "2024-06-14 22:50:00"
     },
     "AUTOCOMMANDS": {
         "K I N G S": "fixed",
