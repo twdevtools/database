@@ -1,1 +1,23 @@
-ewogICAgIm9ic2lkaWFuLWF1dGhlbnRpY2F0aW9uIjogewogICAgICAgICJLIEkgTiBHIFMiOiAiMjAyNC0xMi0zMCAyMzowMDowMCIsCiAgICAgICAgImxpdmlvcHJvZmlnaHQiOiAiMjAyNC0xMi0zMCAyMzowMDowMCIsCiAgICAgICAgIlNhWsO6IjogIjIwMjQtMTItMzAgMjM6MDA6MDAiLAogICAgICAgICJyaWlwem9yZCI6ICIyMDI0LTA4LTE0IDA4OjAwOjAwIiwKICAgICAgICAiRmlndXJhbnRlIFNlbSBWaWRhIjogIjIwMjQtMDYtMTQgMjI6NTA6MDAiLAogICAgICAgICJIYXBweSI6ICIyMDI0LTA2LTE1IDA5OjAwOjAwIiwKICAgICAgICAiLSBEIGkgeiB6IHkgLSI6ICIyMDI0LTA2LTE1IDEwOjMwOjAwIiwKICAgICAgICAiSmVXckF0TyAtIjogIjIwMjQtMDYtMTYgMTI6MDA6MDAiCiAgICB9LAogICAgIkFVVE9DT01NQU5EUyI6IHsKICAgICAgICAiSyBJIE4gRyBTIjogImZpeGVkIiwKICAgICAgICAiQnVyYXR0byI6ICIyMDI0LTA3LTA1IDAwOjAwOjAwIiwKICAgICAgICAiQmlyaW7DoWl0ZSI6ICIyMDI0LTEyLTEyIDAwOjAwOjAwIiwKICAgICAgICAiRGlpaCBmZWxpeCI6ICIyMDI0LTA1LTIzIDE3OjAwOjAwIiwKICAgICAgICAiVGhlIEJvcmdzIjogImZpeGVkIiwKICAgICAgICAiS2hyb25ub3MiOiAiZml4ZWQiLAogICAgICAgICJrcmlnZXIiOiAiMjAyNC0wNS0xNiAyMjozNTowMCIsCiAgICAgICAgIkNhw6dhZG9yYSBkZSBOb29iIjogIjIwMjQtMDUtMjcgMTI6MTU6MDAiLAogICAgICAgICJQb3BwaW4gQ2hhbXBhZ25lIjogIjIwMjQtMDUtMTcgMTM6MTU6MDAiCiAgICB9Cn0=
+{
+    "obsidian-authentication": {
+        "K I N G S": "2024-12-30 23:00:00",
+        "livioprofight": "2024-12-30 23:00:00",
+        "SaZú": "2024-12-30 23:00:00",
+        "riipzord": "2024-08-14 08:00:00",
+        "Figurante Sem Vida": "2024-06-14 22:50:00",
+        "Happy": "2024-06-15 09:00:00",
+        "- D i z z y -": "2024-06-15 10:30:00",
+        "JeWrAtO -": "2024-06-16 12:00:00"
+    },
+    "AUTOCOMMANDS": {
+        "K I N G S": "fixed",
+        "Buratto": "2024-07-05 00:00:00",
+        "Birináite": "2024-12-12 00:00:00",
+        "Diih felix": "2024-05-23 17:00:00",
+        "The Borgs": "fixed",
+        "Khronnos": "fixed",
+        "kriger": "2024-05-16 22:35:00",
+        "Caçadora de Noob": "2024-05-27 12:15:00",
+        "Poppin Champagne": "2024-05-17 13:15:00"
+    }
+}
